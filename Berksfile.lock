@@ -1,0 +1,7 @@
+DEPENDENCIES
+  breakfix
+    path: .
+    metadata: true
+
+GRAPH
+  breakfix (0.1.0)
